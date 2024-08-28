@@ -1,0 +1,16 @@
+body{
+    background-color: #E8E8E8;
+    color: #052051;
+    height: 100vh;
+}
+
+
+  .ingrese{
+    font-size: 32px;
+    font-family: "Inter";
+    font-style: normal;
+}
+.button {
+    display:flex
+}
+.
